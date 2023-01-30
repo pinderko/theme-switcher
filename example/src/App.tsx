@@ -1,6 +1,6 @@
 import React from "react";
-import "edi-zero-sample-v02/dist/esm/style.css";
-import { ThemeProvider, ThemeSwitcher, ThemePage } from "edi-zero-sample-v02";
+import "edi-theme-switcher/dist/esm/style.css";
+import { ThemeProvider, ThemeSwitcher, ThemePage } from "edi-theme-switcher";
 
 function App() {
   return (

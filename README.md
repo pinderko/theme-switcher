@@ -2,6 +2,6 @@
 
 First, need to install package:
 
-npm i react-theme-switcher OR yarn add react-theme-switcher
+npm i edi-theme-switcher OR yarn add edi-theme-switcher
 
 For example, look at ./example/App.tsx
